@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\common\\commonsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\common\\commonsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\common\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\common\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\common\\errormsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\common\\errormsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|c:\\users\\bhavik\\desktop\\api\\crudapi\\crudapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA674223-9DF5-4706-942B-6F40934701F0}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUDAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:46:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CRUDAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwFcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:38:24.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Models\\Product.cs",
+              "RelativeToolTip": "CRUDAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:34:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CRUDAPI\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:52:23.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorMsg.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\ErrorMsg.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Common\\ErrorMsg.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\ErrorMsg.cs",
+              "RelativeToolTip": "CRUDAPI\\Common\\ErrorMsg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:32:09.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\CommonSQL.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Common\\CommonSQL.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\CommonSQL.cs",
+              "RelativeToolTip": "CRUDAPI\\Common\\CommonSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:19:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CRUDAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:15:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "CRUDAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAzwE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:51:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRUDAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:04:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CRUDAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:42:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Program.cs",
+              "RelativeToolTip": "CRUDAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:29:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OracleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\OracleDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Common\\OracleDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Common\\OracleDbContext.cs",
+              "RelativeToolTip": "CRUDAPI\\Common\\OracleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:26:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Bhavik\\Desktop\\API\\CRUDAPI\\CRUDAPI\\Models\\Users.cs",
+              "RelativeToolTip": "CRUDAPI\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:15:24.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
