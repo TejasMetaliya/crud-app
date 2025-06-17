@@ -1,0 +1,28 @@
+<div class="formDiv">
+<form>
+    <div class="mb-4 p-8 flex items-center justify-center" style="justify-self: center;display: grid;">
+        <p-card [style]="{ width: '25rem', overflow: 'hidden' }">
+            <ng-template #header >
+                <div class="headerImg"></div>
+            </ng-template>
+            <ng-template #title> Login </ng-template>
+            <ng-template #subtitle> Please enter you credential </ng-template>            
+                <div class="card flex justify-center">
+                    <p-floatlabel variant="on">
+                        <input pInputText id="username" [(ngModel)]="username"  name="username" autocomplete="off" required/>
+                        <label for="username">Username</label>
+                    </p-floatlabel>
+                    <p-floatlabel variant="on">
+                        <input pInputText id="password" [(ngModel)]="password" name="password" autocomplete="off" required/>
+                        <label for="password">Password</label>
+                    </p-floatlabel>    
+                </div>               
+            <ng-template #footer>
+                <div class="flex gap-4 mt-1">
+                    <p-button type="submit" label="Login" class="w-full" (click)="login()" styleClass="w-full" />
+                </div>
+            </ng-template>
+        </p-card>
+    </div>
+</form>
+</div>

@@ -1,0 +1,42 @@
+<app-header></app-header>
+
+<!-- Users List -->
+<div class="card">
+    <div class="flex justify-center">
+        <button type="button" (click)="showDialog()" pButton icon="pi pi-external-link" label="Users"></button>
+    </div>
+    <p-dialog
+        header="Users List"
+        [resizable]="false"
+        [modal]="true"
+        [maximizable]="true"
+        appendTo="body"
+        [(visible)]="dialogVisible"
+        [style]="{ width: '75vw' }"
+        [contentStyle]="{ height: '300px' }"
+    >
+        <p-table [value]="users" [scrollable]="true" scrollHeight="flex" [tableStyle]="{ 'min-width': '50rem' }">
+            <ng-template #header>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Password</th>
+                </tr>
+            </ng-template>
+            <ng-template #body let-user>
+                <tr>
+                    <td>{{ user.id }}</td>
+                    <td>{{ user.name }}</td>
+                    <td>{{ user.password }}</td>
+                </tr>
+            </ng-template>
+        </p-table>
+        <ng-template #footer>
+            <p-button label="Ok" icon="pi pi-check" (onClick)="dialogVisible = false" />
+        </ng-template>
+    </p-dialog>
+</div>
+
+
+<!-- Manage Products -->
+ <app-mproduct></app-mproduct>

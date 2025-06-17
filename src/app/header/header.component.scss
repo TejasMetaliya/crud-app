@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    padding-inline: 16px;
+    padding-block: 8px;
+    //background-color: rgb(193 57 63 / 99%);
+    background: linear-gradient(135deg, #ff0058, #00c6ff);
+    font-size: larger;
+    color: white;
+    align-items: center;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  background-image: url('../../assets/images/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+nav {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+    .nav-left{
+        float: left;
+        display: contents;
+    }
+    .nav-right{
+        float: right;
+    }
+
+.navH:hover {
+  color: rgba(0, 0, 0, 0.3); /* Change text color on hover */
+}

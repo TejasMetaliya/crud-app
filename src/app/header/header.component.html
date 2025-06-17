@@ -1,0 +1,9 @@
+<header>
+    <nav (click)="reloadPage()" class="nav-left">
+        <div class="logo"></div>
+        <div class="navH"><span *ngIf="loggedInUser">Welcome, {{ loggedInUser }}!</span></div>
+    </nav>
+    <nav (click)="logout()" class="navH nav-right">
+        Logout
+    </nav>
+</header>

@@ -1,0 +1,11 @@
+<!-- Hide header on the login route -->
+<!-- <app-header *ngIf="showHeader"></app-header> -->
+ 
+<div class="card flex justify-center">
+    <p-toast [showTransformOptions]="'translateY(100%)'" [showTransitionOptions]="'1000ms'" [hideTransitionOptions]="'1000ms'" [showTransformOptions]="'translateX(100%)'" />
+</div>
+
+<main>
+  <app-loading></app-loading>
+  <router-outlet></router-outlet>  <!-- ✅ All pages load here based on the route -->
+</main>

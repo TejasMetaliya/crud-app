@@ -1,0 +1,31 @@
+body {
+     overflow: hidden;
+}
+form {
+    height: 100rem; /* Adjust height to account for header */
+    overflow: hidden;
+}
+
+.formDiv{
+    height: 100%;
+    min-height: 100%;
+    padding-top: 10%;
+    margin: 0;
+    // background: linear-gradient(45deg, #fdf0f1 50%, #fad0c4 50%);
+    background: linear-gradient(135deg, #ff5f6d, #ffc371, #6a82fb, #00c6ff);
+}
+
+p-floatlabel{
+    margin: 1rem;
+}
+img{
+    width: 100%;
+}
+
+.headerImg{
+    height: 10rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('../../assets/images/loginheader.png');
+}
